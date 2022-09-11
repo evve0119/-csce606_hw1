@@ -32,7 +32,7 @@ GEM
     rspec-support (3.11.0)
 
 PLATFORMS
-  x86_64-linux
+  arm64-darwin-20
 
 DEPENDENCIES
   byebug
@@ -40,7 +40,7 @@ DEPENDENCIES
   rspec (~> 3.8)
 
 RUBY VERSION
-   ruby 3.0.0p0
+   ruby 3.1.2p20
 
 BUNDLED WITH
-   2.3.21
+   2.3.22
